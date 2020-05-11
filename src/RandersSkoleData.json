@@ -1,0 +1,1003 @@
+{
+    "type": "FeatureCollection",
+    "name": "skoler",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_2",
+                "description": null,
+                "skole": "C. la Cours Skole",
+                "adresse": "Jyllandsgade 24",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86429023",
+                "link": "http:\/\/www.c-lacour.dk\/",
+                "type": "Privat",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.c-lacour.dk\/",
+                "Field_7": "Privat",
+                "Field_4": "Randers",
+                "Field_5": "86429023",
+                "Field_2": "Jyllandsgade 24",
+                "Field_3": "8900",
+                "Field_1": "C. la Cours Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.015741268192, 56.464460441160298]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_3",
+                "description": null,
+                "skole": "Forberedelseskolen",
+                "adresse": "Hobrovej 26a",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86420740",
+                "link": "http:\/\/www.forberedelsesskolen.dk\/",
+                "type": "Privat",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.forberedelsesskolen.dk\/",
+                "Field_7": "Privat",
+                "Field_4": "Randers",
+                "Field_5": "86420740",
+                "Field_2": "Hobrovej 26a",
+                "Field_3": "8900",
+                "Field_1": "Forberedelseskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.028110034337301, 56.4643016799089]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_4",
+                "description": null,
+                "skole": "Randers Lille Skole",
+                "adresse": "Tøjhushavevej 28",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86422010",
+                "link": "http:\/\/www.randerslilleskole.dk\/",
+                "type": "Privat",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.randerslilleskole.dk\/",
+                "Field_7": "Privat",
+                "Field_4": "Randers",
+                "Field_5": "86422010",
+                "Field_2": "Tøjhushavevej 28",
+                "Field_3": "8900",
+                "Field_1": "Randers Lille Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.047706040617999, 56.463461347418402]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_5",
+                "description": null,
+                "skole": "Randers Kristne Friskole",
+                "adresse": "Moseskellet 2",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86420360",
+                "link": "http:\/\/www.randers-kristne-friskole.skoleintra.dk\/",
+                "type": "Privat",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.randers-kristne-friskole.skoleintra.dk\/",
+                "Field_7": "Privat",
+                "Field_4": "Randers",
+                "Field_5": "86420360",
+                "Field_2": "Moseskellet 2",
+                "Field_3": "8900",
+                "Field_1": "Randers Kristne Friskole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.0202693553833, 56.493569549850797]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_6",
+                "description": null,
+                "skole": "Oust Mølleskolen",
+                "adresse": "Oust Møllevej 25",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86420566",
+                "link": "http:\/\/si.oustmoelleskolen.skoleintra.dk",
+                "type": "Specialskole",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/si.oustmoelleskolen.skoleintra.dk",
+                "Field_7": "Specialskole",
+                "Field_4": "Randers",
+                "Field_5": "86420566",
+                "Field_2": "Oust Møllevej 25",
+                "Field_3": "8900",
+                "Field_1": "Oust Mølleskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.98936809134316, 56.475190375238803]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_7",
+                "description": null,
+                "skole": "Firkløverskolen",
+                "adresse": "Apollovej 62",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "87119290",
+                "link": "http:\/\/www.firkloeverskolen.dk\/",
+                "type": "Specialskole",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.firkloeverskolen.dk\/",
+                "Field_7": "Specialskole",
+                "Field_4": "Randers",
+                "Field_5": "87119290",
+                "Field_2": "Apollovej 62",
+                "Field_3": "8900",
+                "Field_1": "Firkløverskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.032767995936901, 56.461880636762899]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_8",
+                "description": null,
+                "skole": "Fussingøegnens Friskole",
+                "adresse": "Byvejen 8, Sønderbæk",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86",
+                "link": "http:\/\/www.fusfriskolen.dk\/",
+                "type": "Privat",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.fusfriskolen.dk\/",
+                "Field_7": "Privat",
+                "Field_4": "Randers",
+                "Field_5": "86",
+                "Field_2": "Byvejen 8, Sønderbæk",
+                "Field_3": "8900",
+                "Field_1": "Fussingøegnens Friskole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.8347619000837, 56.5020530478144]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_9",
+                "description": null,
+                "skole": "Mellerup Fri- og Efterskole",
+                "adresse": "Amtsvejen 76, Mellerup",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86",
+                "link": "http:\/\/www.efterskole.dk",
+                "type": "Privat",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.efterskole.dk",
+                "Field_7": "Privat",
+                "Field_4": "Randers",
+                "Field_5": "86",
+                "Field_2": "Amtsvejen 76, Mellerup",
+                "Field_3": "8900",
+                "Field_1": "Mellerup Fri- og Efterskole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.2043998063338, 56.519361539058401]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_11",
+                "description": null,
+                "skole": "Firkløverskolen afd. i Værum",
+                "adresse": "Jebjergvej 43",
+                "post_nr": null,
+                "by": null,
+                "tlf": "0",
+                "link": "http:\/\/www.firkloeverskolen.dk",
+                "type": "Specialskole",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.firkloeverskolen.dk",
+                "Field_7": "Specialskole",
+                "Field_4": "",
+                "Field_5": "0",
+                "Field_2": "Jebjergvej 43",
+                "Field_3": "",
+                "Field_1": "Firkløverskolen afd. i Værum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.96095506956379, 56.394019256161002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_12",
+                "description": null,
+                "skole": "Satellitten",
+                "adresse": "Gydevej 3",
+                "post_nr": "8870",
+                "by": "Langå",
+                "tlf": "0",
+                "link": "http:\/\/www.satellitten.randers.dk",
+                "type": "Specialskole",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.satellitten.randers.dk",
+                "Field_7": "Specialskole",
+                "Field_4": "Langå",
+                "Field_5": "0",
+                "Field_2": "Gydevej 3",
+                "Field_3": "8870",
+                "Field_1": "Satellitten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.900579948602029, 56.400747394863799]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_13",
+                "description": null,
+                "skole": "Romalt Friskole",
+                "adresse": "Romalt boulevard 34",
+                "post_nr": "8960",
+                "by": "Randers",
+                "tlf": "29896962",
+                "link": "http:\/\/www.romaltfriskole.dk",
+                "type": "Privat",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.romaltfriskole.dk",
+                "Field_7": "Privat",
+                "Field_4": "Randers",
+                "Field_5": "29896962",
+                "Field_2": "Romalt boulevard 34",
+                "Field_3": "8960",
+                "Field_1": "Romalt Friskole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.088860112440299, 56.449438123221597]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_14",
+                "description": null,
+                "skole": "Nørrevangsskolen",
+                "adresse": "Glentevej 15",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86421288",
+                "link": "http:\/\/www.noerrevangsskolen.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "10",
+                "Field_10": "10",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "http:\/\/www.noerrevangsskolen.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "86421288",
+                "Field_2": "Glentevej 15",
+                "Field_3": "8900",
+                "Field_1": "Nørrevangsskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.0376641635683, 56.476862446012397]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_15",
+                "description": null,
+                "skole": "Rismølleskolen",
+                "adresse": "Rismøllegade 15",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "87122500",
+                "link": "http:\/\/www.rismoelleskolen.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "6",
+                "Field_10": "6",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "http:\/\/www.rismoelleskolen.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "87122500",
+                "Field_2": "Rismøllegade 15",
+                "Field_3": "8900",
+                "Field_1": "Rismølleskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.067027107904099, 56.474978604316298]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_16",
+                "description": null,
+                "skole": "Hobrovejens Skole",
+                "adresse": "Gethersvej 36",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86436406",
+                "link": "http:\/\/www.hobrovejensskole.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "6",
+                "Field_10": "6",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "http:\/\/www.hobrovejensskole.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "86436406",
+                "Field_2": "Gethersvej 36",
+                "Field_3": "8900",
+                "Field_1": "Hobrovejens Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.023283770938001, 56.466861551264202]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_17",
+                "description": null,
+                "skole": "Hornbæk Skole",
+                "adresse": "H.C. Andersens Vej 1",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "87108600",
+                "link": "https:\/\/hornbaekskole.randers.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "9",
+                "Field_10": "9",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "https:\/\/hornbaekskole.randers.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "87108600",
+                "Field_2": "H.C. Andersens Vej 1",
+                "Field_3": "8900",
+                "Field_1": "Hornbæk Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.970719501862719, 56.461751860354703]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_18",
+                "description": null,
+                "skole": "Kristrup Skole",
+                "adresse": "Skolegade 4",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86429200",
+                "link": "http:\/\/www.kristrup-skole.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "6",
+                "Field_10": "6",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "http:\/\/www.kristrup-skole.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "86429200",
+                "Field_2": "Skolegade 4",
+                "Field_3": "8900",
+                "Field_1": "Kristrup Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.056926266130599, 56.445976658506098]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_20",
+                "description": null,
+                "skole": "Vestervangsskolen",
+                "adresse": "Nålemagervej 120",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "87108989",
+                "link": "http:\/\/www.vestervangsskolen.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "9",
+                "Field_10": "9",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "http:\/\/www.vestervangsskolen.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "87108989",
+                "Field_2": "Nålemagervej 120",
+                "Field_3": "8900",
+                "Field_1": "Vestervangsskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.008078718599799, 56.472832053782199]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_21",
+                "description": null,
+                "skole": "Østervangsskolen",
+                "adresse": "Dronningborg Boulevard 33",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86422699",
+                "link": "http:\/\/www.oestervangsskolen.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "6",
+                "Field_10": "6",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "http:\/\/www.oestervangsskolen.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "86422699",
+                "Field_2": "Dronningborg Boulevard 33",
+                "Field_3": "8900",
+                "Field_1": "Østervangsskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.0506981324958, 56.473709850335297]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_22",
+                "description": null,
+                "skole": "Munkholmskolen",
+                "adresse": "Bymarksvej 16",
+                "post_nr": "8870",
+                "by": "Langå",
+                "tlf": "86467011",
+                "link": "https:\/\/munkholmskolen.randers.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "9",
+                "Field_10": "9",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "https:\/\/munkholmskolen.randers.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Langå",
+                "Field_5": "86467011",
+                "Field_2": "Bymarksvej 16",
+                "Field_3": "8870",
+                "Field_1": "Munkholmskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.93682198363501, 56.434751425048397]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_23",
+                "description": null,
+                "skole": "Langå Skole",
+                "adresse": "Gydevej 3",
+                "post_nr": "8870",
+                "by": "Langå",
+                "tlf": "87731566",
+                "link": "https:\/\/langaaskole.randers.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "9",
+                "Field_10": "9",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "https:\/\/langaaskole.randers.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Langå",
+                "Field_5": "87731566",
+                "Field_2": "Gydevej 3",
+                "Field_3": "8870",
+                "Field_1": "Langå Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.90024724154226, 56.399987605881698]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_24",
+                "description": null,
+                "skole": "Havndal Skole",
+                "adresse": "Søringen 3",
+                "post_nr": "8970",
+                "by": "Havndal",
+                "tlf": "88181444",
+                "link": "https:\/\/havndalborneby.randers.dk\/skolen\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "6",
+                "Field_10": "6",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "https:\/\/havndalborneby.randers.dk\/skolen\/",
+                "Field_7": "Off",
+                "Field_4": "Havndal",
+                "Field_5": "88181444",
+                "Field_2": "Søringen 3",
+                "Field_3": "8970",
+                "Field_1": "Havndal Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.2022685958311, 56.6539308210412]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_25",
+                "description": null,
+                "skole": "Korshøjskolen",
+                "adresse": "Skolevænget 1A",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "82402626",
+                "link": "https:\/\/korshojskolen.randers.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "9",
+                "Field_10": "9",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "https:\/\/korshojskolen.randers.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "82402626",
+                "Field_2": "Skolevænget 1A",
+                "Field_3": "8900",
+                "Field_1": "Korshøjskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.1342708669993, 56.499284670404201]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_26",
+                "description": null,
+                "skole": "Grønhøjskolen",
+                "adresse": "Nørreled 3",
+                "post_nr": "8983",
+                "by": "Gjerlev",
+                "tlf": "82402650",
+                "link": "http:\/\/www.gronhoj.skoleintra.dk",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "9",
+                "Field_10": "9",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "http:\/\/www.gronhoj.skoleintra.dk",
+                "Field_7": "Off",
+                "Field_4": "Gjerlev",
+                "Field_5": "82402650",
+                "Field_2": "Nørreled 3",
+                "Field_3": "8983",
+                "Field_1": "Grønhøjskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.188755134716301, 56.581723641717602]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_27",
+                "description": null,
+                "skole": "Blicherskolen",
+                "adresse": "Haldvej 6",
+                "post_nr": "8981",
+                "by": "Spentrup",
+                "tlf": "86477933",
+                "link": "http:\/\/www.blicherskolen.purhus.dk",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "9",
+                "Field_10": "9",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "http:\/\/www.blicherskolen.purhus.dk",
+                "Field_7": "Off",
+                "Field_4": "Spentrup",
+                "Field_5": "86477933",
+                "Field_2": "Haldvej 6",
+                "Field_3": "8981",
+                "Field_1": "Blicherskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.037148076580699, 56.541277900877702]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_1",
+                "description": null,
+                "skole": "Randers Realskole",
+                "adresse": "Fabers Alle 3",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "87123230",
+                "link": "http:\/\/www.randers-realsk.dk\/",
+                "type": "Privat",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.randers-realsk.dk\/",
+                "Field_7": "Privat",
+                "Field_4": "Randers",
+                "Field_5": "87123230",
+                "Field_2": "Fabers Alle 3",
+                "Field_3": "8900",
+                "Field_1": "Randers Realskole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.03606880153, 56.465427473718002]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_10",
+                "description": null,
+                "skole": "Vesterbakkeskolen",
+                "adresse": "Nålemagervej 118",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "0",
+                "link": "http:\/\/www.vesterbakkeskolen.dk",
+                "type": "Specialskole",
+                "klassetrin": null,
+                "startklassetrin": null,
+                "slutklassetrin": null,
+                "Field_10": "",
+                "Field_8": "",
+                "Field_9": "",
+                "Field_6": "http:\/\/www.vesterbakkeskolen.dk",
+                "Field_7": "Specialskole",
+                "Field_4": "Randers",
+                "Field_5": "0",
+                "Field_2": "Nålemagervej 118",
+                "Field_3": "8900",
+                "Field_1": "Vesterbakkeskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.0537255867933, 56.492218465018297]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_19",
+                "description": null,
+                "skole": "Tirsdalens Skole",
+                "adresse": "R. Hougårds Vej 50",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "87109820",
+                "link": "http:\/\/www.tirsdalensskole.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "7",
+                "slutklassetrin": "9",
+                "Field_10": "9",
+                "Field_8": "",
+                "Field_9": "7",
+                "Field_6": "http:\/\/www.tirsdalensskole.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "87109820",
+                "Field_2": "R. Hougårds Vej 50",
+                "Field_3": "8900",
+                "Field_1": "Tirsdalens Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.0641363089007, 56.439631124942998]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_28",
+                "description": null,
+                "skole": "Asferg Skole",
+                "adresse": "Østergade 2",
+                "post_nr": "8990",
+                "by": "Fårup",
+                "tlf": "86443508",
+                "link": "http:\/\/www.asfergskole.purhus.dk",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "6",
+                "Field_10": "6",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "http:\/\/www.asfergskole.purhus.dk",
+                "Field_7": "Off",
+                "Field_4": "Fårup",
+                "Field_5": "86443508",
+                "Field_2": "Østergade 2",
+                "Field_3": "8990",
+                "Field_1": "Asferg Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.9340089625976, 56.545969176744798]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_29",
+                "description": null,
+                "skole": "Assentoftskolen",
+                "adresse": "Skolevej 14",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "8649",
+                "link": "https:\/\/assentoftskolen.randers.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "9",
+                "Field_10": "9",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "https:\/\/assentoftskolen.randers.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "8649",
+                "Field_2": "Skolevej 14",
+                "Field_3": "8900",
+                "Field_1": "Assentoftskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.160692243860099, 56.445109120835198]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_30",
+                "description": null,
+                "skole": "Fårup Skole",
+                "adresse": "Fårup Skolevej 5",
+                "post_nr": "8990",
+                "by": "Fårup",
+                "tlf": "86452500",
+                "link": "https:\/\/faarupborneby.randers.dk\/skolen\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "9",
+                "Field_10": "9",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "https:\/\/faarupborneby.randers.dk\/skolen\/",
+                "Field_7": "Off",
+                "Field_4": "Fårup",
+                "Field_5": "86452500",
+                "Field_2": "Fårup Skolevej 5",
+                "Field_3": "8990",
+                "Field_1": "Fårup Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.854601290247659, 56.542393046479702]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_31",
+                "description": null,
+                "skole": "Bjerregrav Skole",
+                "adresse": "Over Fussingvej 7",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86454283",
+                "link": "https:\/\/bjerregravskole.randers.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "6",
+                "Field_10": "6",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "https:\/\/bjerregravskole.randers.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "86454283",
+                "Field_2": "Over Fussingvej 7",
+                "Field_3": "8900",
+                "Field_1": "Bjerregrav Skole"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.90375183033075, 56.4845225036266]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_32",
+                "description": null,
+                "skole": "Søndermarkskolen",
+                "adresse": "Skanderborggade 65",
+                "post_nr": "8900",
+                "by": "Randers",
+                "tlf": "86430088",
+                "link": "http:\/\/www.sondermarkskolen.skoleintra.dk\/",
+                "type": "Off",
+                "klassetrin": null,
+                "startklassetrin": "0",
+                "slutklassetrin": "6",
+                "Field_10": "6",
+                "Field_8": "",
+                "Field_9": "0",
+                "Field_6": "http:\/\/www.sondermarkskolen.skoleintra.dk\/",
+                "Field_7": "Off",
+                "Field_4": "Randers",
+                "Field_5": "86430088",
+                "Field_2": "Skanderborggade 65",
+                "Field_3": "8900",
+                "Field_1": "Søndermarkskolen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.043131861623101, 56.437987413989902]
+            }
+        }
+    ]
+}
